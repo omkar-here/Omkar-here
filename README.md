@@ -1,20 +1,31 @@
-# Omkar-Anabathula
-<h2 align="center">Hello Everyone! :raising_hand_man: Omkar here </h2>
 
 
-- :orange_book: Focusing on ***Robotics*** and ***Machine Learning***.
-- :computer: Pursuing degree in **Artificial Intelligence & Data Science**.
-- :telescope: I’m currently working as a Research Intern at **AutoBuddy** & I am a trainee at **Google ML BootCamp 2022**.
-- :two_men_holding_hands: I’m looking to collaborate on **Computer Vision, Robotics** & **Machine Learning**.
-- 💁 Ready to help in projects involving **Problem Solving** & **Deep Learning**.
-- 📫 How to reach me **aomkarg2003@gmail.com**
-<h1></h1>
+<!--
+**neavepaul/neavepaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+-  ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<img src="Neave-geometric-banner-access.png" width = 100%>
+<h3>Pursuing my Bachelors in Computer Engineering 💻 <br> Enthusiastic about solving challenges that I come across with code.</h3>
 
+<h3>🛠️ Open to collaborating on meaningful projects.<br> 
+ <h3>🌱 I’m currently learning Machine Learning and Web Development  👨🏻‍💻<h3>
+<h1>
+<a href="https://github.com/daftyy/github-readme-stats">
+  <img  src="https://github-readme-stats.vercel.app/api?username=neavepaul&show_icons=true&theme=material-palenight" alt="github stats" width = 475/>
+</a>
 
-#### &emsp;Connect with me
-&nbsp;
+  
+<a href="https://github.com/daftyy/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neavepaul&layout=compact&hide_title=true&theme=material-palenight" width = 475/>
+
 </a>
   <h2>📫 How to reach me:</h2>
   <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin.svg" width=40></a>
@@ -29,3 +40,4 @@
   <br>
     <br>
     <img src="https://komarev.com/ghpvc/?username=neavepaul&color=blueviolet">
+    
