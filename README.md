@@ -14,7 +14,7 @@
 
 </a>
 <span>
-  <h2 >📫 Connect with me at: <a href="https://www.linkedin.com/in/omkar-a-770457134/"><img src="linkedin.svg" width=40></a></h2>
+  <h3 >📫 Connect with me at: <a href="https://www.linkedin.com/in/omkar-a-770457134/"><img width=20px src="linkedin.svg" width=40></a></h3>
   
  </span>
   &nbsp&nbsp
