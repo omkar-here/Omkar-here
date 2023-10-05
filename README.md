@@ -1,5 +1,5 @@
 # Omkar-Anabathula
-<h2 align="center">Hello Everyone!(I am a Full Stack Developer) :raising_hand_man: Omkar here </h2>
+<h2 align="center">Hello Everyone! :raising_hand_man: Omkar here (Full Stack Developer) </h2>
 
 
 - :orange_book: Focusing on ***Web Development***.
