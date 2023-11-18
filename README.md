@@ -6,7 +6,7 @@
 - :computer: Pursuing degree in **Computer Science**.
 - :telescope: Worked as a Frontend Developer Intern at **Heliverse Technolgies**.
 - 💻 Currently working as a Full Stack Developer Intern at **CausalFunnel**.
-- :two_men_holding_hands: I’m looking to collaborate on **ReactJS** & **NextJS**.
+- :two_men_holding_hands: I’m looking to collaborate on **Open Source**,**ReactJS** & **NextJS**.
 - 💁 Ready to help in projects involving **Problem Solving,Web Development** or **Machine Learning**.
 - 📫 How to reach me: **aomkarg2003@gmail.com**
 <h1></h1>
