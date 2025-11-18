@@ -1,76 +1,97 @@
-<!-- Banner -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-here&theme=radical&hide_border=true" width="60%">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=4CA3FF&lines=Hey+there!+I'm+Omkar+Anabathula+👋;Backend+Engineer+Consultant;AI+Agent+Builder+%7C+System+Design+Enthusiast;Passionate+about+Creating+Impactful+Tools">
 </p>
 
-<h1 align="center">🤖 Hey, I'm <span style="color:#00eaff;">Omkar Anabathula</span></h1>
-<h3 align="center">Backend Engineer • AI Agent Builder • Ex–Groww Intern</h3>
+<h1 align="center">🤖 Omkar Anabathula</h1>
+<h3 align="center">Backend Engineer Consultant • AI / LLM Tools Builder • Ex–Groww Intern</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-here&theme=tokyonight&hide_border=true" width="65%" />
+</p>
 
 ---
 
-## 🎯 About Me
-I'm a developer who loves building things that **think**, **react**, and **automate**.
+## 🚀 About Me  
+I'm a **Backend Engineer Consultant** passionate about building scalable systems, developer tools, AI-powered automation, and intelligent agent workflows.
 
-🔹 Backend Engineer Consultant at **Morgan Stanley**  
-🔹 Ex–Software Engineer Intern at **Groww**  
-🔹 Currently building **AI agents**, **LLM-driven tools**, and **autonomous workflows**  
-🔹 Passionate about system design, distributed systems, and ML-powered engineering  
+Currently working on enterprise-grade backend systems at **Wissen Technology (Morgan Stanley)** and exploring how **AI + backend engineering** can come together to create high-leverage tools.
+
+I enjoy:  
+- simplifying complex backend problems  
+- building practical AI workflows  
+- helping developers debug & learn  
+- working with distributed systems  
+- experimenting with new ideas  
 
 ---
 
-## 🧠 What I'm Building Right Now
+## 🔥 What I'm Building / Learning
+
 <div align="center">
 
-| 🚀 Area | ⚡ Description |
-|--------|----------------|
-| 🧩 **AI Agents** | Building autonomous tool-using agents, planning engines, LLM pipelines |
-| 🔍 **Retrieval Systems** | Working with vector DBs, hybrid search, embeddings |
-| 🖥️ **Backend Systems** | High-scale APIs, microservices, streaming infra |
-| 🤝 **Mentoring** | Helping devs understand backend + AI concepts |
+| 🌟 Area | 🔧 Focus |
+|--------|----------|
+| 🤖 **AI Agents** | Planning engines, multi-step autonomous workflows |
+| 🧠 **LLM Apps** | Retrieval, embeddings, hybrid search, pipelines |
+| 🛠️ **Backend Engineering** | Microservices, APIs, event architectures, Kafka |
+| 🚀 **Developer Tools** | Utility scripts, automation, infra helpers |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack 
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Backend -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <br>
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js"/>
   <!-- AI -->
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <br>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/>
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
   <!-- DB -->
-  <img src="https://img.shields.io/badge/PostgreSQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-31648C?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb"/>
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions"/>
 </p>
 
 ---
 
-## 🧨 Featured Projects 
+## 💼 Experience
 
-### 🧾 **CouponZo**  
-A smart coupon generation + distribution engine built with Node.js.
+### 🔹 **Backend Engineer Consultant — Wissen Technology (Morgan Stanley)**  
+Building enterprise-scale backend systems in the financial domain.  
+Tech: **Java, Spring Boot, Kafka, SQL, Microservices**
 
-### 🐾 **Prani-Rakshak**  
-ML-powered wildlife monitoring & alert system.
+### 🔹 **Software Engineer Intern — Groww**  
+Built internal dashboards, automations & workflow tooling.
 
-### 🤖 **AgriBot Robotics**  
-ROS + CV system for automated agricultural tasks.
+### 🔹 **Community & Peer Mentoring**  
+- Assisted juniors with backend APIs, debugging & architecture  
+- Taught Python, ML basics, and system design fundamentals  
+- Supported peers through project planning & execution  
 
 ---
 
-## 📈 GitHub Stats
+## 📦 Featured Projects
+
+### 🧾 **CouponZo — Smart Coupon Engine**  
+Node.js-based intelligent coupon creation & redemption platform.
+
+### 🐾 **Prani-Rakshak — Wildlife Defense AI**  
+ML-powered wildlife detection & alerting system.
+
+### 🤖 **AgriBot — Robotics + CV**  
+Robotic arm automation using ROS + CV pipelines.
+
+---
+
+## 📈 GitHub Stats (Dark Theme)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omkar-here&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
@@ -79,24 +100,15 @@ ROS + CV system for automated agricultural tasks.
 
 ---
 
-## 🎨 
-
+## 🌐 Connect With Me  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=20C8F7&center=true&vCenter=true&width=700&lines=Building+AI+Agents;Backend+Engineer+Consultant+at+(Morgan+Stanley);Ex-Groww+Intern;Loves+Automation+and+System+Design;Open+to+MLH+Mentoring" />
+  <a href="https://www.linkedin.com/in/omkar-anabathula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:aomkarg2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://omkar-dashboard.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0fd19d?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌌 Let’s Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/omkar-anabathula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://omkar-dashboard.netlify.app"><img src="https://img.shields.io/badge/Portfolio-20c997?style=for-the-badge&logo=airplayvideo&logoColor=white"/></a>
-  <a href="mailto:aomkarg2003@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-## 🎯 MLH Mentor Note
-I love working with devs who are curious, persistent, and excited to build.  
-If you're exploring backend engineering or AI-driven development — **I’d be happy to help.**
-
+## ✨ Final Thought  
+Always building. Always simplifying. Always learning.  
+If you're working on something interesting — I'd love to collaborate!
