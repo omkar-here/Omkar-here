@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=4CA3FF&lines=Hey+there!+I'm+Omkar+Anabathula+👋;Backend+Engineer+Consultant;AI+Agent+Builder+%7C+System+Design+Enthusiast;Passionate+about+Creating+Impactful+Tools">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=4CA3FF&lines=Hey+there!+I'm+Omkar+Anabathula+👋;Backend+Engineer;AI+Agent+Builder+%7C+System+Design+Enthusiast;Passionate+about+Creating+Impactful+Tools">
 </p>
 
 <h1 align="center">🤖 Omkar Anabathula</h1>
@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me  
-I'm a **Backend Engineer Consultant** passionate about building scalable systems, developer tools, AI-powered automation, and intelligent agent workflows.
+I'm a **Backend Engineer** passionate about building scalable systems, developer tools, AI-powered automation, and intelligent agent workflows.
 
 Currently working on enterprise-grade backend systems at **Wissen Technology (Morgan Stanley)** and exploring how **AI + backend engineering** can come together to create high-leverage tools.
 
@@ -64,7 +64,7 @@ I enjoy:
 
 ## 💼 Experience
 
-### 🔹 **Backend Engineer Consultant — Wissen Technology (Morgan Stanley)**  
+### 🔹 **Backend Engineer — Wissen Technology (Morgan Stanley)**  
 Building enterprise-scale backend systems in the financial domain.  
 Tech: **Java, Spring Boot, Kafka, SQL, Microservices**
 
