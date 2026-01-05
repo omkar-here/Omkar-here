@@ -15,7 +15,7 @@
 ## 🚀 About Me  
 I'm a **Backend Engineer** passionate about building scalable systems, developer tools, AI-powered automation, and intelligent agent workflows.
 
-Currently working on enterprise-grade backend systems at **Wissen Technology (Morgan Stanley)** and exploring how **AI + backend engineering** can come together to create high-leverage tools.
+Currently working on enterprise-grade backend systems at **Morgan Stanley** and exploring how **AI + backend engineering** can come together to create high-leverage tools.
 
 I enjoy:  
 - simplifying complex backend problems  
@@ -64,7 +64,7 @@ I enjoy:
 
 ## 💼 Experience
 
-### 🔹 **Backend Engineer — Wissen Technology (Morgan Stanley)**  
+### 🔹 **Backend Engineer — Morgan Stanley (Wissen Technology)**  
 Building enterprise-scale backend systems in the financial domain.  
 Tech: **Java, Spring Boot, Kafka, SQL, Microservices**
 
