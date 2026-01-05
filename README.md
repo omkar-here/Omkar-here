@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">🤖 Omkar Anabathula</h1>
-<h3 align="center">Backend Engineer Consultant • AI / LLM Tools Builder • Ex–Groww Intern</h3>
+<h3 align="center">Backend Engineer • AI / LLM Tools Builder • Ex–Groww Intern</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkar-here&theme=tokyonight&hide_border=true" width="65%" />
